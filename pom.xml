@@ -38,5 +38,7 @@
     <modules>
         <module>ConfigServer</module>
         <module>eureka-server-bank</module>
+        <module>ms-product-bank</module>
+        <module>ms-customer-bank</module>
     </modules>
 </project>

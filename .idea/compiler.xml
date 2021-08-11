@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-server" />
         <module name="ConfigServer" />
+        <module name="ms-customer" />
+        <module name="eureka-server" />
+        <module name="ms-product" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +17,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ConfigServer" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
+      <module name="ms-customer" options="-parameters" />
+      <module name="ms-product" options="-parameters" />
       <module name="parent-project-bootcamp" options="-parameters" />
     </option>
   </component>

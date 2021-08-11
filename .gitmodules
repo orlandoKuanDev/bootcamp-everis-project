@@ -10,3 +10,6 @@
 [submodule "ms-customer-bank"]
 	path = ms-customer-bank
 	url = https://github.com/orlandoKuanDev/ms-customer-bank
+[submodule "ms-acquisition-bank"]
+	path = ms-acquisition-bank
+	url = https://github.com/orlandoKuanDev/ms-acquisition-bank

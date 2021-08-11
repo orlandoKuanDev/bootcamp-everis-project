@@ -1,0 +1,6 @@
+[submodule "ConfigServer"]
+	path = ConfigServer
+	url = https://github.com/orlandoKuanDev/ConfigServer
+[submodule "eureka-server-bank"]
+	path = eureka-server-bank
+	url = https://github.com/orlandoKuanDev/eureka-server-bank

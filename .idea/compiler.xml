@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="parent-project-bootcamp" />
+        <module name="eureka-server" />
+        <module name="ConfigServer" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ConfigServer" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
       <module name="parent-project-bootcamp" options="-parameters" />
     </option>
   </component>

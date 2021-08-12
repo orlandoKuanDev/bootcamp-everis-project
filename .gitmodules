@@ -28,3 +28,6 @@
 [submodule "ms-credit"]
 	path = ms-credit
 	url = https://github.com/orlandoKuanDev/ms-credit
+[submodule "ms-payment"]
+	path = ms-payment
+	url = https://github.com/orlandoKuanDev/ms-payment

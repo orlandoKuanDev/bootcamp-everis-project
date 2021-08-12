@@ -13,8 +13,6 @@ P
  config-data/service-customer.yml,3/a/3a56e063df7398439f76a8bc8df78aa5390cd55f
 É
 Sms-customer-bank/src/main/java/com/bootcamp/mscustomer/handler/CustomerHandler.java,0/6/0631b79c27257213d11a5b5c36e0816e2bf87714
-Ä
-PConfigServer/src/main/java/com/example/configserver/ConfigServerApplication.java,c/5/c51408fd2d4ebe75247730062e63d3b3336b86c5
 Å
 Qms-customer-bank/src/main/java/com/bootcamp/mscustomer/MsCustomerApplication.java,2/a/2a4ee458764627a583a69ac02b4e4d0b72573d2f
 }

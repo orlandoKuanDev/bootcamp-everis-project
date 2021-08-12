@@ -7,7 +7,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ms-deposit-bank" />
         <module name="ms-transaction" />
+        <module name="ms-retire" />
         <module name="ms-customer" />
         <module name="ConfigServer" />
         <module name="ms-pasives" />
@@ -23,8 +25,10 @@
       <module name="eureka-server" options="-parameters" />
       <module name="ms-acquisition-bank" options="-parameters" />
       <module name="ms-customer" options="-parameters" />
+      <module name="ms-deposit-bank" options="-parameters" />
       <module name="ms-pasives" options="-parameters" />
       <module name="ms-product" options="-parameters" />
+      <module name="ms-retire" options="-parameters" />
       <module name="ms-transaction" options="-parameters" />
       <module name="parent-project-bootcamp" options="-parameters" />
     </option>

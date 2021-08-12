@@ -40,5 +40,6 @@
         <module>eureka-server-bank</module>
         <module>ms-product-bank</module>
         <module>ms-customer-bank</module>
+        <module>ms-acquisition-bank</module>
     </modules>
 </project>

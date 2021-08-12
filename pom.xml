@@ -41,5 +41,6 @@
         <module>ms-product-bank</module>
         <module>ms-customer-bank</module>
         <module>ms-acquisition-bank</module>
+        <module>ms-bill</module>
     </modules>
 </project>

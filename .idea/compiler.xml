@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ConfigServer" />
         <module name="ms-customer" />
+        <module name="ms-pasives" />
         <module name="eureka-server" />
         <module name="ms-product" />
         <module name="ms-acquisition-bank" />
@@ -21,6 +22,7 @@
       <module name="eureka-server" options="-parameters" />
       <module name="ms-acquisition-bank" options="-parameters" />
       <module name="ms-customer" options="-parameters" />
+      <module name="ms-pasives" options="-parameters" />
       <module name="ms-product" options="-parameters" />
       <module name="parent-project-bootcamp" options="-parameters" />
     </option>

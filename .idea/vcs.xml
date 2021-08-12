@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ConfigServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka-server-bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-acquisition-bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-bill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-customer-bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-product-bank" vcs="Git" />
   </component>
 </project>

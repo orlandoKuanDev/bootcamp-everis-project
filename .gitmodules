@@ -16,3 +16,6 @@
 [submodule "ms-bill"]
 	path = ms-bill
 	url = https://github.com/orlandoKuanDev/ms-bill
+[submodule "ms-transaction-bank"]
+	path = ms-transaction-bank
+	url = https://github.com/orlandoKuanDev/ms-transaction-bank

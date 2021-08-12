@@ -46,5 +46,6 @@
         <module>ms-retire-bank</module>
         <module>ms-deposit-bank</module>
         <module>ms-credit</module>
+        <module>ms-payment</module>
     </modules>
 </project>

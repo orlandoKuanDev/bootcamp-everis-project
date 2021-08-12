@@ -14,6 +14,7 @@
         <module name="ms-credit" />
         <module name="ConfigServer" />
         <module name="ms-pasives" />
+        <module name="ms-payment" />
         <module name="eureka-server" />
         <module name="ms-product" />
         <module name="ms-acquisition-bank" />
@@ -29,6 +30,7 @@
       <module name="ms-customer" options="-parameters" />
       <module name="ms-deposit-bank" options="-parameters" />
       <module name="ms-pasives" options="-parameters" />
+      <module name="ms-payment" options="-parameters" />
       <module name="ms-product" options="-parameters" />
       <module name="ms-retire" options="-parameters" />
       <module name="ms-transaction" options="-parameters" />

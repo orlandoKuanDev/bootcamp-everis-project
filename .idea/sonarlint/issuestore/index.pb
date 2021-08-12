@@ -15,8 +15,6 @@ P
 Sms-customer-bank/src/main/java/com/bootcamp/mscustomer/handler/CustomerHandler.java,0/6/0631b79c27257213d11a5b5c36e0816e2bf87714
 Ä
 PConfigServer/src/main/java/com/example/configserver/ConfigServerApplication.java,c/5/c51408fd2d4ebe75247730062e63d3b3336b86c5
-Ü
-Veureka-server-bank/src/main/java/com/example/eurekaserver/EurekaServerApplication.java,e/b/ebc44fbd2f44ff99813348196d3783e3bceb8c3f
 Å
 Qms-customer-bank/src/main/java/com/bootcamp/mscustomer/MsCustomerApplication.java,2/a/2a4ee458764627a583a69ac02b4e4d0b72573d2f
 }
@@ -25,8 +23,6 @@ Mms-product-bank/src/main/java/com/example/msproduct/MsProductApplication.java,
 ams-acquisition-bank/src/main/java/com/example/msacquisitionbank/MsAcquisitionBankApplication.java,2/b/2b85f6b57158030019bb888a3030d8e3d120bfe7
 S
 #config-data/service-acquisition.yml,c/3/c395dd7b236c64b8611cb68470fb54a723e3262e
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 H
 ms-customer-bank/pom.xml,c/6/c64113868acd5238b8549a870c43abdef90f4e43
 K

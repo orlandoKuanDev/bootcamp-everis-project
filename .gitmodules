@@ -25,3 +25,6 @@
 [submodule "ms-deposit-bank"]
 	path = ms-deposit-bank
 	url = https://github.com/orlandoKuanDev/ms-deposit-bank
+[submodule "ms-credit"]
+	path = ms-credit
+	url = https://github.com/orlandoKuanDev/ms-credit

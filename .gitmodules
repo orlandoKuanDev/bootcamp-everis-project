@@ -19,3 +19,6 @@
 [submodule "ms-transaction-bank"]
 	path = ms-transaction-bank
 	url = https://github.com/orlandoKuanDev/ms-transaction-bank
+[submodule "ms-retire-bank"]
+	path = ms-retire-bank
+	url = https://github.com/orlandoKuanDev/ms-retire-bank

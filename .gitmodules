@@ -22,3 +22,6 @@
 [submodule "ms-retire-bank"]
 	path = ms-retire-bank
 	url = https://github.com/orlandoKuanDev/ms-retire-bank
+[submodule "ms-deposit-bank"]
+	path = ms-deposit-bank
+	url = https://github.com/orlandoKuanDev/ms-deposit-bank

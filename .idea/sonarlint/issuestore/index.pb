@@ -27,15 +27,11 @@ K
 ms-acquisition-bank/pom.xml,f/7/f7593ca958106f804d87ee2d03567d038fbc77a5
 L
 config-data/service-bill.yml,3/6/360e2c66bb1be4dfdd7d19bfe4770a637a4618f8
-ê
-`ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Acquisition.java,f/9/f98ab7782dfdbe60c9c1a7ba0f4d20b04b08233f
 å
 \ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Product.java,a/b/ab864082302a340aba4353531dda4519302e523c
 ç
 ]ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Customer.java,3/9/3934e5e5d9939c666114bbd729a35197d8036c56
 y
 Ims-bill/src/main/java/com/example/mspasives/models/entities/Customer.java,7/3/732fee7cc96f083f1730a388462fb1a93f38096c
-|
-Lms-bill/src/main/java/com/example/mspasives/models/entities/Acquisition.java,2/7/27aeb54839cc30b67bc94b98f9b156a2c3e5a097
 t
 Dms-bill/src/main/java/com/example/mspasives/handler/BillHandler.java,0/a/0a3f5ec109021afa44b35d444fbf85e2e103ee11

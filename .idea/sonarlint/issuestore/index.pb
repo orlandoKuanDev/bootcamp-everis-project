@@ -27,8 +27,6 @@ S
 #config-data/service-acquisition.yml,c/3/c395dd7b236c64b8611cb68470fb54a723e3262e
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-G
-ms-product-bank/pom.xml,3/7/37723254844f959f396b478697d92b37b1cdec26
 H
 ms-customer-bank/pom.xml,c/6/c64113868acd5238b8549a870c43abdef90f4e43
 K

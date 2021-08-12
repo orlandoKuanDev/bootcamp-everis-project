@@ -13,3 +13,6 @@
 [submodule "ms-acquisition-bank"]
 	path = ms-acquisition-bank
 	url = https://github.com/orlandoKuanDev/ms-acquisition-bank
+[submodule "ms-bill"]
+	path = ms-bill
+	url = https://github.com/orlandoKuanDev/ms-bill

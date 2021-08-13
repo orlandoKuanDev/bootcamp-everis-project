@@ -31,3 +31,6 @@
 [submodule "ms-payment"]
 	path = ms-payment
 	url = https://github.com/orlandoKuanDev/ms-payment
+[submodule "ms-consumption"]
+	path = ms-consumption
+	url = https://github.com/orlandoKuanDev/ms-consumption

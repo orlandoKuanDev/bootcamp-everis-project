@@ -9,6 +9,7 @@
     <mapping directory="$PROJECT_DIR$/ms-credit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-customer-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-deposit-bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-payment" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-product-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-retire-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-transaction-bank" vcs="Git" />

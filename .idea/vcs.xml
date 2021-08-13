@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/eureka-server-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-acquisition-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-bill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-consumption" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-credit" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-customer-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-deposit-bank" vcs="Git" />

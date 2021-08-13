@@ -7,3 +7,6 @@ server:
 spring:
   application:
     name: service-acquisition
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ms-customer

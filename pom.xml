@@ -47,5 +47,6 @@
         <module>ms-deposit-bank</module>
         <module>ms-credit</module>
         <module>ms-payment</module>
+        <module>ms-consumption</module>
     </modules>
 </project>

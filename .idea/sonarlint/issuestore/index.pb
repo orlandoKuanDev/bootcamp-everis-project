@@ -25,8 +25,6 @@ H
 ms-customer-bank/pom.xml,c/6/c64113868acd5238b8549a870c43abdef90f4e43
 K
 ms-acquisition-bank/pom.xml,f/7/f7593ca958106f804d87ee2d03567d038fbc77a5
-L
-config-data/service-bill.yml,3/6/360e2c66bb1be4dfdd7d19bfe4770a637a4618f8
 å
 \ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Product.java,a/b/ab864082302a340aba4353531dda4519302e523c
 ç

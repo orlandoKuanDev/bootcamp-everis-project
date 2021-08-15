@@ -1,13 +1,0 @@
-
-2
-java:S1116 "Remove this empty statement.(ÿ¶“
-X
-java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8Èâè³/
-G
-java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8Éâè³/
-G
-java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ8Ëâè³/
-U
-java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ8Ìâè³/
-d
-java:S1128"BRemove this unused import 'javax.validation.constraints.NotBlank'.(µã‡ıÿÿÿÿ8Îâè³/

@@ -11,8 +11,6 @@ Qms-customer-bank/src/main/java/com/bootcamp/mscustomer/MsCustomerApplication.ja
 Mms-product-bank/src/main/java/com/example/msproduct/MsProductApplication.java,9/a/9a525256a0c63b986ca586d02b92f8a8b13d24b1
 ë
 ams-acquisition-bank/src/main/java/com/example/msacquisitionbank/MsAcquisitionBankApplication.java,2/b/2b85f6b57158030019bb888a3030d8e3d120bfe7
-H
-ms-customer-bank/pom.xml,c/6/c64113868acd5238b8549a870c43abdef90f4e43
 K
 ms-acquisition-bank/pom.xml,f/7/f7593ca958106f804d87ee2d03567d038fbc77a5
 N
@@ -21,8 +19,6 @@ N
 Veureka-server-bank/src/main/java/com/example/eurekaserver/EurekaServerApplication.java,e/b/ebc44fbd2f44ff99813348196d3783e3bceb8c3f
 G
 ms-product-bank/pom.xml,3/7/37723254844f959f396b478697d92b37b1cdec26
-K
-ms-transaction-bank/pom.xml,5/1/51ad86f4877b2e986a33454e894bb612b66fad13
 Ä
 PConfigServer/src/main/java/com/example/configserver/ConfigServerApplication.java,c/5/c51408fd2d4ebe75247730062e63d3b3336b86c5
 F
@@ -45,8 +41,6 @@ A
 ms-credit/pom.xml,b/1/b10e30d4bcc092361c86e1e8fa77c38f9225962b
 |
 Lms-credit/src/main/java/com/example/mscredit/model/entities/Acquisition.java,d/0/d0536d4a64b462f0f04b7eaeea60bdced49a1e98
-Ñ
-Tms-customer-bank/src/main/java/com/bootcamp/mscustomer/models/entities/Customer.java,1/b/1b37ab3e4f34cd4fe1554b75c7bc51a558e14a66
 ?
 ms-bill/pom.xml,6/2/62d32364a600a2e85c0fb5f575cf03e6116ad156
 7
@@ -63,16 +57,12 @@ N
 config-data/service-credit.yml,5/d/5d0a6933e99a6f65cfe3dbb8d4822bce188c77a8
 S
 #config-data/service-consumption.yml,e/5/e5ab7cebe2bac19e93499b48edcff75f9127cb38
-P
- config-data/service-customer.yml,3/a/3a56e063df7398439f76a8bc8df78aa5390cd55f
 O
 config-data/service-deposit.yml,4/4/44cbfc06f0a2297814a909249e45acf61af90968
 O
 config-data/service-payment.yml,f/1/f130c7b95700e6f43890f312246c0e12023a0b9c
 N
 config-data/service-retire.yml,c/b/cbaa5797a1fc6579604abc306f863d08d8f9b1b1
-O
-config-data/service-product.yml,3/8/38337a48c98d4159bd672e4df862f04a8b8d21d4
 S
 #config-data/service-transaction.yml,e/0/e07135ac7b7aef4c0ca05d54cedc182ca91b9951
 S
@@ -149,3 +139,41 @@ Fms-bill/src/main/java/com/example/mspasives/services/IBillService.java,7/1/717
 Mms-retire-bank/src/main/java/com/example/msretire/models/entities/Retire.java,9/a/9a3d330e4e84d735b15cd271675afd14fd227835
 u
 Ems-bill/src/main/java/com/example/mspasives/models/entities/Bill.java,d/8/d8c253aea84715f94443b86a7e0591827f0ff0f8
+å
+\ms-transaction-bank/src/main/java/com/example/mstransaction/services/AcquisitionService.java,d/a/da596a485af82a24632b10deecf971594434c384
+|
+Lms-bill/src/main/java/com/example/mspasives/models/entities/Transaction.java,8/a/8a04276080e2d0c3136b561ae6f459a3a4124d6b
+Ö
+Ums-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Bill.java,c/d/cddb91bdc6f575b06c05ab3581f884bfcc9d54fb
+å
+\ms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Transaction.java,4/2/42877975e416ab937a8b8cd3c7bd6df0567f44c0
+{
+Kms-retire-bank/src/main/java/com/example/msretire/services/BillService.java,b/5/b51169f689d0b0d6fd53efd7de0e0efa504934e4
+Ö
+Ums-transaction-bank/src/main/java/com/example/mstransaction/services/BillService.java,c/a/cac5cf5c83f1273328b23770671b49c7d7abeb0f
+t
+Dms-bill/src/main/java/com/example/mspasives/handler/BillHandler.java,0/a/0a3f5ec109021afa44b35d444fbf85e2e103ee11
+u
+Ems-bill/src/main/java/com/example/mspasives/services/BillService.java,3/7/37bd89b21c70da18fe4c1e40866297e8564c477a
+|
+Lms-bill/src/main/java/com/example/mspasives/repositories/BillRepository.java,7/1/71b26e1de131f82a2768106c61d81b36b5fb2d1c
+â
+Yms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/BaseService.java,1/c/1c59a98bd77ef8c6039f9d3c8a06929ee6641d3a
+â
+Yms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Bill.java,b/4/b490b0df0261b1c29ad476ec599d3e63f8c97a4b
+å
+\ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/ProductService.java,9/f/9f62bd35e8f80673544428634ec64df791d5168b
+ä
+Zms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/IBaseService.java,d/e/dec96b27c15dfb3d97d233ea71e0cc93d4051b4d
+ç
+]ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Customer.java,3/9/3934e5e5d9939c666114bbd729a35197d8036c56
+ç
+]ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/CustomerService.java,3/2/32f663b8aa3a0d71eb27bf78fa3b09afa634e931
+N
+ms-acquisition-bank/.gitignore,6/7/677ba22632909c42fb2c6e8be3edba91cc5af68d
+à
+Xms-acquisition-bank/src/main/java/com/example/msacquisitionbank/utils/CustomMessage.java,f/3/f3147844fd71373318c4a08cd6823adea1e0cffd
+B
+ms-bill/.gitignore,6/6/66173612e5b11137e15d5f3345d502b63986a09c
+ã
+[ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/utils/I18AbleException.java,7/6/76184933d86a7bf669b82fe930bf674302fa86f4

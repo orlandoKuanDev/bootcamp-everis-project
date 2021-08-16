@@ -1,0 +1,7 @@
+
+S
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®8ğÕ¹´/
+L
+java:S1068"1Remove this unused "customMessage" private field.(´¨­ûùÿÿÿÿ
+{
+java:S1192$"YDefine a constant instead of duplicating this literal "http://SERVICE-BILL/bill" 3 times.(Æ˜ªõüÿÿÿÿ8ÉÒ¹´/

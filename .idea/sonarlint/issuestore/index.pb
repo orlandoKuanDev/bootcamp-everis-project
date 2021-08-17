@@ -86,8 +86,6 @@ Nms-retire-bank/src/main/java/com/example/msretire/models/entities/Product.java
 {
 Kms-retire-bank/src/main/java/com/example/msretire/models/entities/Bill.java,0/7/07de8477b5cd5e92425d5f69fb49dbdc5ebd4823
 ‚
-Rms-retire-bank/src/main/java/com/example/msretire/models/entities/Acquisition.java,4/6/464bd2c6361a61485d56466b2c30dd5ae4f41bd9
-‚
 Rms-retire-bank/src/main/java/com/example/msretire/models/entities/Transaction.java,0/7/074d13ef67e908aa4d0417f715868d0d0fa1f937
 |
 Lms-retire-bank/src/main/java/com/example/msretire/models/entities/Rules.java,f/5/f5f77c128016907fa724dc3fb992e9d82aa64269
@@ -131,8 +129,6 @@ t
 Dms-bill/src/main/java/com/example/mspasives/config/RouterConfig.java,f/0/f005f7b75122f8e0507129ba32ad6f94d3974649
 v
 Fms-bill/src/main/java/com/example/mspasives/services/IBillService.java,7/1/717114f0f50dd2f3be72223793724258de671069
-}
-Mms-retire-bank/src/main/java/com/example/msretire/models/entities/Retire.java,9/a/9a3d330e4e84d735b15cd271675afd14fd227835
 u
 Ems-bill/src/main/java/com/example/mspasives/models/entities/Bill.java,d/8/d8c253aea84715f94443b86a7e0591827f0ff0f8
 Œ

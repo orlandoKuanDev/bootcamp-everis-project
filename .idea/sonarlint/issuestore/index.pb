@@ -23,8 +23,6 @@ G
 PConfigServer/src/main/java/com/example/configserver/ConfigServerApplication.java,c/5/c51408fd2d4ebe75247730062e63d3b3336b86c5
 F
 ms-retire-bank/pom.xml,7/6/764de61ab980a01132f5d8380e045976fa94b50d
-x
-Hms-credit/src/main/java/com/example/mscredit/config/WebClientConfig.java,2/6/26a349fa472deb26a3d8db950fffdada5e921b75
 ƒ
 Sms-deposit-bank/src/main/java/com/example/msdepositbank/repository/IRepository.java,1/4/142e8bb9cb1e827e500bd6cc49b762400126f0df
 ‰
@@ -39,18 +37,12 @@ B
 ms-payment/pom.xml,5/c/5c90cad9a548e7fa49e0e075193fc273e40f1b95
 A
 ms-credit/pom.xml,b/1/b10e30d4bcc092361c86e1e8fa77c38f9225962b
-|
-Lms-credit/src/main/java/com/example/mscredit/model/entities/Acquisition.java,d/0/d0536d4a64b462f0f04b7eaeea60bdced49a1e98
 ?
 ms-bill/pom.xml,6/2/62d32364a600a2e85c0fb5f575cf03e6116ad156
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 F
 ms-consumption/pom.xml,0/9/09ce31b4c3fff63a466c409558241f466177f69a
-w
-Gms-credit/src/main/java/com/example/mscredit/model/entities/Credit.java,c/d/cdeddca8112e7f68176a99fa6f35a93e565ec394
-w
-Gms-credit/src/main/java/com/example/mscredit/handler/CreditHandler.java,3/a/3a4f0db8ee7b0c7afffbd50e16970d5d80d6ae46
 L
 config-data/service-bill.yml,3/6/360e2c66bb1be4dfdd7d19bfe4770a637a4618f8
 N
@@ -71,8 +63,6 @@ S
 Lms-bill/src/main/java/com/example/mspasives/services/TransactionService.java,c/e/ce40aebee981aad351256f704a1fb1f246efffd8
 u
 Ems-bill/src/main/java/com/example/mspasives/MsPasivesApplication.java,7/b/7b78fde9d3fbf4cd9dfc185b707152083abd9544
-u
-Ems-credit/src/main/java/com/example/mscredit/config/RouterConfig.java,d/b/db9b6fd7e33c4500f4bd994f1a9d3efe8d9bd7cd
 M
 config-data/eureka-server.yml,5/b/5b07408fb9557f8414c721f3f39461ee740f1b63
 ‰

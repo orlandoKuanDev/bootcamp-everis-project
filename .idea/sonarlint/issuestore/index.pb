@@ -91,8 +91,6 @@ Yms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Cus
 [ms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/CreditCard.java,6/3/6334be1e9e392301169c7f7fc1dadc7d41834be0
 †
 Vms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Rules.java,4/e/4ed5d8a4bdde4c5412d3ec213754765661a9a82e
-Š
-Zms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Rules.java,e/4/e4623e5a4a4a9a3c6a7e2450a8b2e5c30f45c8a2
 |
 Lms-bill/src/main/java/com/example/mspasives/models/entities/Acquisition.java,2/7/27aeb54839cc30b67bc94b98f9b156a2c3e5a097
 x
@@ -113,16 +111,12 @@ Xms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Pro
 Rms-retire-bank/src/main/java/com/example/msretire/services/TransactionService.java,0/8/0845cb5eb860cdf76beaca8423310a9bdfaf0db7
 €
 Pms-bill/src/main/java/com/example/mspasives/repositories/BillTypeRepository.java,6/2/62b52a4bb1c980f1594f51d557ab98313ab50b50
-Œ
-\ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Product.java,a/b/ab864082302a340aba4353531dda4519302e523c
 t
 Dms-bill/src/main/java/com/example/mspasives/config/RouterConfig.java,f/0/f005f7b75122f8e0507129ba32ad6f94d3974649
 v
 Fms-bill/src/main/java/com/example/mspasives/services/IBillService.java,7/1/717114f0f50dd2f3be72223793724258de671069
 u
 Ems-bill/src/main/java/com/example/mspasives/models/entities/Bill.java,d/8/d8c253aea84715f94443b86a7e0591827f0ff0f8
-Œ
-\ms-transaction-bank/src/main/java/com/example/mstransaction/services/AcquisitionService.java,d/a/da596a485af82a24632b10deecf971594434c384
 |
 Lms-bill/src/main/java/com/example/mspasives/models/entities/Transaction.java,8/a/8a04276080e2d0c3136b561ae6f459a3a4124d6b
 …

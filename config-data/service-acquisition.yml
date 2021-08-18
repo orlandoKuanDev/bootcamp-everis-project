@@ -9,4 +9,4 @@ spring:
     name: service-acquisition
   data:
     mongodb:
-      uri: mongodb://localhost:27017/ms-customer
+      uri: mongodb://localhost:27017/ms-customer 

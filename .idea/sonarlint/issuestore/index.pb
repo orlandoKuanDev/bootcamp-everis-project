@@ -215,11 +215,5 @@ W
 \ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/ProductService.java,9/f/9f62bd35e8f80673544428634ec64df791d5168b
 „
 Tms-consumption/src/main/java/com/example/msconsumption/MsConsumptionApplication.java,2/b/2b0b6eee5e7b13fccabb18a595b9df3173b35933
-S
-#config-data/service-acquisition.yml,c/3/c395dd7b236c64b8611cb68470fb54a723e3262e
-W
-'config-data/service-acquisition-dev.yml,d/a/dacfcdff7da6c0e06095cdd3d5d23280660ede3a
 
 Oms-product-bank/src/main/java/com/example/msproduct/handler/ProductHandler.java,e/d/edcac415156a5bd258fce94c8f09aebe74e385be
-‰
-Yms-transaction-bank/src/main/java/com/example/mstransaction/MsTransactionApplication.java,0/e/0e7f2b95a675f5e519c0ecb7dde5552a692ff64f

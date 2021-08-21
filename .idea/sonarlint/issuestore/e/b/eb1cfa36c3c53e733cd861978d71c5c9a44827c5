@@ -1,12 +1,0 @@
-
-I
-java:S1172+".Remove this unused method parameter "request".(¥¥óŞÿÿÿÿÿ
-Q	java:S125i"<This block of commented-out lines of code should be removed.(Ù¬šè
-h
-java:S1602y"SRemove useless curly braces around statement and then remove useless return keyword(ˆıø
-A
-java:S1612y",Replace this lambda with a method reference.(ˆıø
-i
-java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 55 to the 15 allowed.(óìãç
-v
-java:S1192M"[Define a constant instead of duplicating this literal "THE PRODUCT DOES NOT EXIST" 3 times.(ßœ¾Àüÿÿÿÿ

@@ -127,14 +127,10 @@ Lms-bill/src/main/java/com/example/mspasives/models/entities/Acquisition.java,2
 PConfigServer/src/main/java/com/example/configserver/ConfigServerApplication.java,c/5/c51408fd2d4ebe75247730062e63d3b3336b86c5
 ã
 [ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/config/WebClientConfig.java,4/3/43253df4302a6f0dbf6b7aedbd84ad3659dd3fe0
-å
-\ms-transaction-bank/src/main/java/com/example/mstransaction/services/AcquisitionService.java,d/a/da596a485af82a24632b10deecf971594434c384
 x
 Hms-consumption/src/main/java/com/example/msconsumption/models/Rules.java,2/a/2a177282ee585de22d5f79afded022394bb516a5
 Ö
 Ums-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Bill.java,c/d/cddb91bdc6f575b06c05ab3581f884bfcc9d54fb
-Ö
-Ums-transaction-bank/src/main/java/com/example/mstransaction/services/BillService.java,c/a/cac5cf5c83f1273328b23770671b49c7d7abeb0f
 ~
 Nms-consumption/src/main/java/com/example/msconsumption/models/Transaction.java,f/1/f16b04b1104bd76340e82f38ca302cf2516b7949
 }
@@ -149,8 +145,6 @@ W
 Oms-product-bank/src/main/java/com/example/msproduct/handler/ProductHandler.java,e/d/edcac415156a5bd258fce94c8f09aebe74e385be
 á
 Wms-consumption/src/main/java/com/example/msconsumption/services/TransactionService.java,5/e/5e262b80905cd9fee94d086c893d77c698f03785
-ë
-ams-acquisition-bank/src/main/java/com/example/msacquisitionbank/MsAcquisitionBankApplication.java,2/b/2b85f6b57158030019bb888a3030d8e3d120bfe7
 |
 Lms-retire-bank/src/main/java/com/example/msretire/handler/RetireHandler.java,4/f/4fea81fe31c38558d436c21c57be100d0b3c8998
 S
@@ -159,8 +153,6 @@ P
  config-data/service-bill-dev.yml,9/3/93430b74bd3e38a7c79834718ee6e839cb8cbbc2
 L
 config-data/service-bill.yml,3/6/360e2c66bb1be4dfdd7d19bfe4770a637a4618f8
-â
-Yms-transaction-bank/src/main/java/com/example/mstransaction/MsTransactionApplication.java,0/e/0e7f2b95a675f5e519c0ecb7dde5552a692ff64f
 u
 Ems-bill/src/main/java/com/example/mspasives/MsPasivesApplication.java,7/b/7b78fde9d3fbf4cd9dfc185b707152083abd9544
 W
@@ -197,8 +189,6 @@ Jms-payment/src/main/java/com/example/mspayment/config/WebClientConfig.java,4/9
 Lms-payment/src/main/java/com/example/mspayment/models/entities/Customer.java,c/d/cdc5f194ceb270fdc9ae98bffdeb22448be0598f
 
 Oms-payment/src/main/java/com/example/mspayment/services/AcquisitionService.java,a/4/a482b75d44fcf7e97bb43f9fbf3a5ff2cb4d188e
-ò
-hms-acquisition-bank/src/main/java/com/example/msacquisitionbank/repositories/IAcquisitionRepository.java,4/3/434be5894abdf87b65f36d550841e4362f9e4031
 à
 Xms-consumption/src/main/java/com/example/msconsumption/services/IConsumptionService.java,2/5/25cc331049ed1857bb576784a12179b794d7e5d2
 è

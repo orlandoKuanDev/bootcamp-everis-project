@@ -34,3 +34,6 @@
 [submodule "ms-consumption"]
 	path = ms-consumption
 	url = https://github.com/orlandoKuanDev/ms-consumption
+[submodule "ms-debit"]
+	path = ms-debit
+	url = https://github.com/Mauricio06Everis/ms-debit

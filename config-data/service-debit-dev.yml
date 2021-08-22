@@ -11,3 +11,24 @@ spring:
     mongodb:
       database: ms-customer
       uri: mongodb://p3mongodb:WFve1bGHSZWShJdNllhEgbUqesNFhZqiiomgtst2GGBDphIpDNzSzuJU3GXqGqRARBgFozHjDsjpxj3JHcNVMg==@p3mongodb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@p3mongodb@
+
+resilience4j:
+  circuitbreaker:
+    configs:
+      default:
+        registerHealthIndicator: true
+        slidingWindowSize: 10
+        minimumNumberOfCalls: 5
+        permittedNumberOfCallsInHalfOpenState: 3
+        automaticTransitionFromOpenToHalfOpenEnabled: true
+        waitDurationInOpenState: 2s
+        failureRateThreshold: 50
+        eventConsumerBufferSize: 10
+        recordExceptions:
+          - org.springframework.web.client.HttpServerErrorException
+          - java.util.concurrent.TimeoutException
+          - java.io.IOException
+          - java.net.ConnectException
+    instances:
+      creditConsumerServiceCircuitBreaker:
+        baseConfig: default

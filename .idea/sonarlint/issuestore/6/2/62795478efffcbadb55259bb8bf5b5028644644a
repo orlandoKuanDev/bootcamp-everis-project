@@ -1,0 +1,12 @@
+
+I
+java:S1172,".Remove this unused method parameter "request".(¥¥óŞÿÿÿÿÿ
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(½åßµøÿÿÿÿ
+j
+java:S1602§"SRemove useless curly braces around statement and then remove useless return keyword(šÖƒ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(À”’Ùûÿÿÿÿ
+I
+java:S1068#"3Remove this unused "customerService" private field.(ÂÌïå
+i
+java:S1192<"NDefine a constant instead of duplicating this literal "accountNumber" 4 times.(½‚Ä™üÿÿÿÿ

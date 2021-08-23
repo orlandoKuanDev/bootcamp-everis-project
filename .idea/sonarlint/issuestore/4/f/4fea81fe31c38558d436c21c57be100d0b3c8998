@@ -1,5 +1,15 @@
 
 I
 java:S1172(".Remove this unused method parameter "request".(¥¥σήÿÿÿÿÿ
+^
+java:S1854["CRemove this useless assignment to local variable "transactionMono".(–·¬δωÿÿÿÿ
+R
+java:S1854Z"<Remove this useless assignment to local variable "billMono".(γµ»υ
+C
+java:S1481Z"-Remove this unused "billMono" local variable.(γµ»υ
+O
+java:S1481["4Remove this unused "transactionMono" local variable.(–·¬δωÿÿÿÿ
+_
+java:S1192o"IDefine a constant instead of duplicating this literal "/retire/" 3 times.(„ΓΡπ
 ~
 java:S1488C"cImmediately return this expression instead of assigning it to the temporary variable "billUpdated".(βρ―Ωϊÿÿÿÿ

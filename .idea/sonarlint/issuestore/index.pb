@@ -43,8 +43,6 @@ S
 Oms-retire-bank/src/main/java/com/example/msretire/models/entities/Customer.java,4/e/4ed2b0df147e18aacd8e0ad9b5008d48122a239d
 ~
 Nms-retire-bank/src/main/java/com/example/msretire/models/entities/Product.java,7/a/7a1bd499e8665cea737207d56649f004ae3f2bb0
-{
-Kms-retire-bank/src/main/java/com/example/msretire/models/entities/Bill.java,0/7/07de8477b5cd5e92425d5f69fb49dbdc5ebd4823
 |
 Lms-retire-bank/src/main/java/com/example/msretire/models/entities/Rules.java,f/5/f5f77c128016907fa724dc3fb992e9d82aa64269
 á
@@ -107,8 +105,6 @@ Ems-bill/src/main/java/com/example/mspasives/services/BillService.java,3/7/37bd
 Lms-credit/src/main/java/com/example/mscredit/model/entities/Acquisition.java,d/0/d0536d4a64b462f0f04b7eaeea60bdced49a1e98
 |
 Lms-bill/src/main/java/com/example/mspasives/repositories/BillRepository.java,7/1/71b26e1de131f82a2768106c61d81b36b5fb2d1c
-Ç
-Rms-retire-bank/src/main/java/com/example/msretire/models/entities/Acquisition.java,4/6/464bd2c6361a61485d56466b2c30dd5ae4f41bd9
 Ü
 Vms-transaction-bank/src/main/java/com/example/mstransaction/adapter/RetireAdapter.java,6/f/6fd7bce80c177dac31faba8107a7ec99e048e4ea
 t
@@ -241,8 +237,6 @@ Yms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/BaseSe
 Rms-retire-bank/src/main/java/com/example/msretire/services/TransactionService.java,0/8/0845cb5eb860cdf76beaca8423310a9bdfaf0db7
 Ç
 Rms-retire-bank/src/main/java/com/example/msretire/models/entities/Transaction.java,0/7/074d13ef67e908aa4d0417f715868d0d0fa1f937
-{
-Kms-retire-bank/src/main/java/com/example/msretire/services/BillService.java,b/5/b51169f689d0b0d6fd53efd7de0e0efa504934e4
 Ü
 Vms-transaction-bank/src/main/java/com/example/mstransaction/models/dto/BalanceDTO.java,0/7/07feb173c0145f1024888114997cc035f6c99102
 â
@@ -313,8 +307,6 @@ r
 Bms-debit/src/main/java/com/example/debit/models/entities/Bill.java,2/6/26a7e82403859a928445348c25daaba03fdf49dc
 v
 Fms-debit/src/main/java/com/example/debit/models/entities/Customer.java,5/3/5336c6b39a35b0f3302ac35a1814436697c844b6
-s
-Cms-debit/src/main/java/com/example/debit/models/entities/Debit.java,1/8/18a97f04c951f3ba6a683f402c9f42f79eab1644
 w
 Gms-debit/src/main/java/com/example/debit/models/dto/DebitCreateDTO.java,8/0/8009fa1a5b1e09e3f8988bee807457895c2fa0fb
 p
@@ -333,8 +325,6 @@ Yms-transaction-bank/src/main/java/com/example/mstransaction/services/CustomerSe
 `ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/AcquisitionService.java,a/6/a655f3d952ef8e193d887cb61e75f7587b12d981
 ç
 ]ms-transaction-bank/src/main/java/com/example/mstransaction/services/ITransactionService.java,e/b/ebbcc5c7a81e67a492fab8cbd1690206463dc4b5
-s
-Cms-debit/src/main/java/com/example/debit/services/IBaseService.java,e/d/eda426dfe33452d56b78afc7b75734d217df5600
 v
 Fms-debit/src/main/java/com/example/debit/repositories/IRepository.java,0/9/0942d55598e374c68f9baf83b479ed223aaf05ff
 s
@@ -347,19 +337,3 @@ t
 Dms-debit/src/main/java/com/example/debit/services/IDebitService.java,b/2/b20db4c632734051a5705e6208ee6dcdfb4815dd
 å
 \ms-transaction-bank/src/main/java/com/example/mstransaction/services/TransactionService.java,5/a/5a4de6ea671e9c9f9b69eda5ed2c86406c4fad80
-r
-Bms-debit/src/main/java/com/example/debit/handler/DebitHandler.java,5/2/527f2b9ceab12ab17e06df7ba5dca4deba017fc0
-q
-Ams-debit/src/main/java/com/example/debit/config/RouterConfig.java,b/e/bef693740110607c1440e07bdc68e3e2a9e24850
-}
-Mms-retire-bank/src/main/java/com/example/msretire/models/entities/Retire.java,9/a/9a3d330e4e84d735b15cd271675afd14fd227835
-z
-Jms-retire-bank/src/main/java/com/example/msretire/MsRetireApplication.java,1/c/1cd40ba2029a64d7a2b9dec8bde1b298ee9c944e
-z
-Jms-retire-bank/src/main/java/com/example/msretire/config/RouterConfig.java,b/2/b222a9f568b12f584e699f5fc8cb86b9fcf75ffd
-ã
-[ms-transaction-bank/src/main/java/com/example/mstransaction/handler/TransactionHandler.java,6/2/62795478efffcbadb55259bb8bf5b5028644644a
-|
-Lms-retire-bank/src/main/java/com/example/msretire/handler/RetireHandler.java,4/f/4fea81fe31c38558d436c21c57be100d0b3c8998
-Ü
-Vms-consumption/src/main/java/com/example/msconsumption/handler/ConsumptionHandler.java,3/6/36a2f30d83754980afca003b0f0f55cc661e3670

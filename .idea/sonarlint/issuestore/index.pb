@@ -1,16 +1,12 @@
 
 ;
 .gitmodules,7/4/7445606fbf8f3683cd42bdc54b05d7a0bc2dfc44
-J
-eureka-server-bank/pom.xml,3/4/34eae70cae494d3e504d5d9bc784b6ca213d3c42
 D
 ConfigServer/pom.xml,f/9/f958ddb088957bc0c87d7e6dda703cb85f539043
 }
 Mms-product-bank/src/main/java/com/example/msproduct/MsProductApplication.java,9/a/9a525256a0c63b986ca586d02b92f8a8b13d24b1
 K
 ms-acquisition-bank/pom.xml,f/7/f7593ca958106f804d87ee2d03567d038fbc77a5
-N
-eureka-server-bank/.gitmodules,e/a/ea3e984ae74fc628a2999b61aefbbcd3e9ae88c9
 Ü
 Veureka-server-bank/src/main/java/com/example/eurekaserver/EurekaServerApplication.java,e/b/ebc44fbd2f44ff99813348196d3783e3bceb8c3f
 G
@@ -27,8 +23,6 @@ Rms-deposit-bank/src/main/java/com/example/msdepositbank/services/IBaseService.j
 Qms-deposit-bank/src/main/java/com/example/msdepositbank/services/BaseService.java,c/e/ce6a7cbdc1b0184da15cc4713d75b1666c2c759e
 G
 ms-deposit-bank/pom.xml,0/5/0515053ccea1b553b921b648f9c8b2958126196c
-A
-ms-credit/pom.xml,b/1/b10e30d4bcc092361c86e1e8fa77c38f9225962b
 ?
 ms-bill/pom.xml,6/2/62d32364a600a2e85c0fb5f575cf03e6116ad156
 N
@@ -145,8 +139,6 @@ W
 'config-data/service-acquisition-dev.yml,d/a/dacfcdff7da6c0e06095cdd3d5d23280660ede3a
 u
 Ems-bill/src/main/java/com/example/mspasives/models/entities/Bill.java,d/8/d8c253aea84715f94443b86a7e0591827f0ff0f8
-w
-Gms-credit/src/main/java/com/example/mscredit/handler/CreditHandler.java,3/a/3a4f0db8ee7b0c7afffbd50e16970d5d80d6ae46
 t
 Dms-bill/src/main/java/com/example/mspasives/handler/BillHandler.java,0/a/0a3f5ec109021afa44b35d444fbf85e2e103ee11
 å
@@ -215,8 +207,6 @@ Nms-consumption/src/main/java/com/example/msconsumption/models/Consumption.java
 [ms-consumption/src/main/java/com/example/msconsumption/models/dto/ConsumptionCreateDTO.java,0/f/0f18f37b8372131dc9f5e56301f80fb4678d33ff
 z
 Jms-consumption/src/main/java/com/example/msconsumption/models/Payment.java,d/5/d5388f60d6861623b2126d45bba75b909714d5bb
-z
-Jms-payment/src/main/java/com/example/mspayment/handler/PaymentHandler.java,7/7/77368fb91e251f9ab0f9923c6a192f054cae1806
 
 Oms-payment/src/main/java/com/example/mspayment/models/entities/Acquisition.java,d/e/deeff1aec932335562786da590b9ee66bc6b6a55
 w
@@ -265,8 +255,6 @@ Tms-transaction-bank/src/main/java/com/example/mstransaction/config/RouterConfig
 Xms-acquisition-bank/src/main/java/com/example/msacquisitionbank/config/RouterConfig.java,2/6/26425e9ccf60bfc96f0bf5e65d08c98828dc5416
 B
 ms-payment/pom.xml,5/c/5c90cad9a548e7fa49e0e075193fc273e40f1b95
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 ~
 Nms-consumption/src/main/java/com/example/msconsumption/models/Acquisition.java,c/4/c41ead4bedb995b5a4bcc5416c7ee4ba953f3772
 x
@@ -295,8 +283,6 @@ y
 Ims-debit/src/main/java/com/example/debit/services/AcquisitionService.java,c/a/ca51b92de3f6e1311cc83074f45d7ad35d991cbb
 Q
 !config-data/service-debit-dev.yml,c/e/ceb6980efe9fbc5c2c401e08ffbeeb375ca79c08
-@
-ms-debit/pom.xml,2/6/2643f46614210855ecf7bf216d2cf04b10303129
 M
 config-data/service-debit.yml,b/0/b07bc1716d88dee715dbd4a5376b59d5aa419e5c
 è
@@ -337,3 +323,19 @@ t
 Dms-debit/src/main/java/com/example/debit/services/IDebitService.java,b/2/b20db4c632734051a5705e6208ee6dcdfb4815dd
 å
 \ms-transaction-bank/src/main/java/com/example/mstransaction/services/TransactionService.java,5/a/5a4de6ea671e9c9f9b69eda5ed2c86406c4fad80
+{
+Kms-retire-bank/src/main/java/com/example/msretire/services/BillService.java,b/5/b51169f689d0b0d6fd53efd7de0e0efa504934e4
+}
+Mms-retire-bank/src/main/java/com/example/msretire/models/entities/Retire.java,9/a/9a3d330e4e84d735b15cd271675afd14fd227835
+å
+\ms-retire-bank/src/main/java/com/example/msretire/models/dto/in/CreateRetireWithCardDTO.java,5/8/58671556699a2f6e966a89cdf501c64345d4a252
+Ç
+Rms-retire-bank/src/main/java/com/example/msretire/models/entities/Acquisition.java,4/6/464bd2c6361a61485d56466b2c30dd5ae4f41bd9
+s
+Cms-debit/src/main/java/com/example/debit/services/IBaseService.java,e/d/eda426dfe33452d56b78afc7b75734d217df5600
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+K
+ms-transaction-bank/pom.xml,5/1/51ad86f4877b2e986a33454e894bb612b66fad13
+w
+Gms-credit/src/main/java/com/example/mscredit/model/entities/Credit.java,c/d/cdeddca8112e7f68176a99fa6f35a93e565ec394

@@ -1,14 +1,6 @@
 
-;
-.gitmodules,7/4/7445606fbf8f3683cd42bdc54b05d7a0bc2dfc44
 D
 ConfigServer/pom.xml,f/9/f958ddb088957bc0c87d7e6dda703cb85f539043
-}
-Mms-product-bank/src/main/java/com/example/msproduct/MsProductApplication.java,9/a/9a525256a0c63b986ca586d02b92f8a8b13d24b1
-K
-ms-acquisition-bank/pom.xml,f/7/f7593ca958106f804d87ee2d03567d038fbc77a5
-G
-ms-product-bank/pom.xml,3/7/37723254844f959f396b478697d92b37b1cdec26
 F
 ms-retire-bank/pom.xml,7/6/764de61ab980a01132f5d8380e045976fa94b50d
 É
@@ -19,10 +11,6 @@ Yms-deposit-bank/src/main/java/com/example/msdepositbank/repository/IRetireRepos
 Rms-deposit-bank/src/main/java/com/example/msdepositbank/services/IBaseService.java,1/8/18aa3f3d5e9a37fde57f3a08eebb373f83b81733
 Å
 Qms-deposit-bank/src/main/java/com/example/msdepositbank/services/BaseService.java,c/e/ce6a7cbdc1b0184da15cc4713d75b1666c2c759e
-G
-ms-deposit-bank/pom.xml,0/5/0515053ccea1b553b921b648f9c8b2958126196c
-?
-ms-bill/pom.xml,6/2/62d32364a600a2e85c0fb5f575cf03e6116ad156
 N
 config-data/service-credit.yml,5/d/5d0a6933e99a6f65cfe3dbb8d4822bce188c77a8
 O
@@ -31,12 +19,6 @@ N
 config-data/service-retire.yml,c/b/cbaa5797a1fc6579604abc306f863d08d8f9b1b1
 S
 #config-data/service-transaction.yml,e/0/e07135ac7b7aef4c0ca05d54cedc182ca91b9951
-
-Oms-retire-bank/src/main/java/com/example/msretire/models/entities/Customer.java,4/e/4ed2b0df147e18aacd8e0ad9b5008d48122a239d
-~
-Nms-retire-bank/src/main/java/com/example/msretire/models/entities/Product.java,7/a/7a1bd499e8665cea737207d56649f004ae3f2bb0
-|
-Lms-retire-bank/src/main/java/com/example/msretire/models/entities/Rules.java,f/5/f5f77c128016907fa724dc3fb992e9d82aa64269
 á
 Wms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Retire.java,a/b/ab25f1bbf32dd5165914325418166945cc40b968
 à
@@ -157,8 +139,6 @@ O
 config-data/service-payment.yml,f/1/f130c7b95700e6f43890f312246c0e12023a0b9c
 S
 #config-data/service-payment-dev.yml,6/b/6b38fb6e99f31b64ac668117836a22d527e55028
-z
-Jms-payment/src/main/java/com/example/mspayment/config/WebClientConfig.java,4/9/491e60e81fc566cd2a2d742494c41b31aea457e6
 |
 Lms-payment/src/main/java/com/example/mspayment/models/entities/Customer.java,c/d/cdc5f194ceb270fdc9ae98bffdeb22448be0598f
 
@@ -169,26 +149,12 @@ Xms-consumption/src/main/java/com/example/msconsumption/services/IConsumptionSer
 ]ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/repositories/IRepository.java,2/f/2f9749e2ed85f07719e46984aef5132e88fddc09
 |
 Lms-payment/src/main/java/com/example/mspayment/repositories/IRepository.java,5/8/583abb6ad67c6e33a58ae52365962d24754e4dab
-É
-Sms-payment/src/main/java/com/example/mspayment/repositories/IPaymentRepository.java,9/f/9f74ba70d8adb3c5d42cee5a5541221581246749
-|
-Lms-payment/src/main/java/com/example/mspayment/services/IPaymentService.java,6/9/696af06d93499e84c674cbb1e8fe7f1ede8c587c
 â
 Yms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/BillService.java,c/6/c619827bfc5905ec16b1ec1c61922fbb3589c6bc
-{
-Kms-payment/src/main/java/com/example/mspayment/services/PaymentService.java,9/8/989a7b123b2cc7099be86a4ff715c5e52904eb55
-Ä
-Pms-consumption/src/main/java/com/example/msconsumption/services/BillService.java,5/a/5a66685f39396d2c858e558e656870efb75afaca
-ê
-`ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Acquisition.java,f/9/f98ab7782dfdbe60c9c1a7ba0f4d20b04b08233f
 å
 \ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/PaymentService.java,5/c/5c341e2f9b4ac60cb53acebafcaa750f7bf4659b
 x
 Hms-payment/src/main/java/com/example/mspayment/models/entities/Bill.java,6/e/6e92cb2744dfb006acc7dc39927408c56c0818d4
-x
-Hms-payment/src/main/java/com/example/mspayment/MsPaymentApplication.java,f/a/fa8f510ccc1a1c01522819f5b85cdc8e27c38e2f
-{
-Kms-payment/src/main/java/com/example/mspayment/models/entities/Payment.java,2/0/208691ce0d5a5b9478a5cf80d6c6d7e1f45007c2
 É
 Sms-consumption/src/main/java/com/example/msconsumption/services/PaymentService.java,2/8/28699341c884cfaf7aea50df82a93e5a6db0df0a
 Ñ
@@ -207,12 +173,8 @@ z
 Jms-consumption/src/main/java/com/example/msconsumption/models/Payment.java,d/5/d5388f60d6861623b2126d45bba75b909714d5bb
 
 Oms-payment/src/main/java/com/example/mspayment/models/entities/Acquisition.java,d/e/deeff1aec932335562786da590b9ee66bc6b6a55
-w
-Gms-payment/src/main/java/com/example/mspayment/config/RouterConfig.java,d/8/d8892bb6e13acb4c06c0b0e11bb7c3dd17725ad0
 Å
 Qms-customer-bank/src/main/java/com/bootcamp/mscustomer/MsCustomerApplication.java,2/a/2a4ee458764627a583a69ac02b4e4d0b72573d2f
-F
-ms-consumption/pom.xml,0/9/09ce31b4c3fff63a466c409558241f466177f69a
 å
 \ms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Transaction.java,4/2/42877975e416ab937a8b8cd3c7bd6df0567f44c0
 ç
@@ -221,10 +183,6 @@ F
 ]ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Customer.java,3/9/3934e5e5d9939c666114bbd729a35197d8036c56
 â
 Yms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/BaseService.java,1/c/1c59a98bd77ef8c6039f9d3c8a06929ee6641d3a
-Ç
-Rms-retire-bank/src/main/java/com/example/msretire/services/TransactionService.java,0/8/0845cb5eb860cdf76beaca8423310a9bdfaf0db7
-Ç
-Rms-retire-bank/src/main/java/com/example/msretire/models/entities/Transaction.java,0/7/074d13ef67e908aa4d0417f715868d0d0fa1f937
 Ü
 Vms-transaction-bank/src/main/java/com/example/mstransaction/models/dto/BalanceDTO.java,0/7/07feb173c0145f1024888114997cc035f6c99102
 â
@@ -251,16 +209,12 @@ Vms-transaction-bank/src/main/java/com/example/mstransaction/models/dto/AverageD
 Tms-transaction-bank/src/main/java/com/example/mstransaction/config/RouterConfig.java,7/a/7acb7fb87755ce77f0f4c7b4e7555fbce5a3410f
 à
 Xms-acquisition-bank/src/main/java/com/example/msacquisitionbank/config/RouterConfig.java,2/6/26425e9ccf60bfc96f0bf5e65d08c98828dc5416
-B
-ms-payment/pom.xml,5/c/5c90cad9a548e7fa49e0e075193fc273e40f1b95
 ~
 Nms-consumption/src/main/java/com/example/msconsumption/models/Acquisition.java,c/4/c41ead4bedb995b5a4bcc5416c7ee4ba953f3772
 x
 Hms-consumption/src/main/java/com/example/msconsumption/models/Rules.java,2/a/2a177282ee585de22d5f79afded022394bb516a5
 {
 Kms-consumption/src/main/java/com/example/msconsumption/models/Customer.java,4/1/41148884a1accca62121f5ca8b7fb023c29197e0
-w
-Gms-consumption/src/main/java/com/example/msconsumption/models/Bill.java,8/4/84167ad47b599831b6b02c42f76e45a4bb1c6b97
 z
 Jms-consumption/src/main/java/com/example/msconsumption/models/Product.java,9/e/9ef948613fe13a5a6a3f0d113e17492b42f52539
 å
@@ -283,8 +237,6 @@ Q
 !config-data/service-debit-dev.yml,c/e/ceb6980efe9fbc5c2c401e08ffbeeb375ca79c08
 M
 config-data/service-debit.yml,b/0/b07bc1716d88dee715dbd4a5376b59d5aa419e5c
-è
-_ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/handler/AcquisitionHandler.java,e/b/eb1cfa36c3c53e733cd861978d71c5c9a44827c5
 |
 Lms-debit/src/main/java/com/example/debit/util/CreditCardNumberGenerator.java,c/9/c96a0e2fb2d4af834873ec1d4bb4b8974e09ea2b
 r
@@ -297,8 +249,6 @@ p
 @ms-debit/src/main/java/com/example/debit/MsDebitApplication.java,7/0/706502da91fed5a937cb6b75436c8980fa21459b
 u
 Ems-debit/src/main/java/com/example/debit/models/entities/Product.java,a/1/a1e85d7c6151b8b8765403958f0047936ab8a444
-y
-Ims-debit/src/main/java/com/example/debit/models/entities/Acquisition.java,9/d/9df1f355e2f6c957c0cd4d3f54531e10886a3358
 s
 Cms-debit/src/main/java/com/example/debit/models/entities/Rules.java,9/e/9edcd75e626dd7da4a66e55041a2957a0388d2cf
 â
@@ -325,13 +275,7 @@ Dms-debit/src/main/java/com/example/debit/services/IDebitService.java,b/2/b20db
 Kms-retire-bank/src/main/java/com/example/msretire/services/BillService.java,b/5/b51169f689d0b0d6fd53efd7de0e0efa504934e4
 }
 Mms-retire-bank/src/main/java/com/example/msretire/models/entities/Retire.java,9/a/9a3d330e4e84d735b15cd271675afd14fd227835
-å
-\ms-retire-bank/src/main/java/com/example/msretire/models/dto/in/CreateRetireWithCardDTO.java,5/8/58671556699a2f6e966a89cdf501c64345d4a252
-Ç
-Rms-retire-bank/src/main/java/com/example/msretire/models/entities/Acquisition.java,4/6/464bd2c6361a61485d56466b2c30dd5ae4f41bd9
 s
 Cms-debit/src/main/java/com/example/debit/services/IBaseService.java,e/d/eda426dfe33452d56b78afc7b75734d217df5600
-K
-ms-transaction-bank/pom.xml,5/1/51ad86f4877b2e986a33454e894bb612b66fad13
 w
 Gms-credit/src/main/java/com/example/mscredit/model/entities/Credit.java,c/d/cdeddca8112e7f68176a99fa6f35a93e565ec394

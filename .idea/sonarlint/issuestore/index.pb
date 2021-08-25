@@ -1,8 +1,6 @@
 
 D
 ConfigServer/pom.xml,f/9/f958ddb088957bc0c87d7e6dda703cb85f539043
-F
-ms-retire-bank/pom.xml,7/6/764de61ab980a01132f5d8380e045976fa94b50d
 É
 Sms-deposit-bank/src/main/java/com/example/msdepositbank/repository/IRepository.java,1/4/142e8bb9cb1e827e500bd6cc49b762400126f0df
 â
@@ -207,8 +205,6 @@ Zms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/dto/Aver
 Vms-transaction-bank/src/main/java/com/example/mstransaction/models/dto/AverageDTO.java,a/d/ad8bc3bfd985f47a9cad9d4a67ab38ab87385d8e
 Ñ
 Tms-transaction-bank/src/main/java/com/example/mstransaction/config/RouterConfig.java,7/a/7acb7fb87755ce77f0f4c7b4e7555fbce5a3410f
-à
-Xms-acquisition-bank/src/main/java/com/example/msacquisitionbank/config/RouterConfig.java,2/6/26425e9ccf60bfc96f0bf5e65d08c98828dc5416
 ~
 Nms-consumption/src/main/java/com/example/msconsumption/models/Acquisition.java,c/4/c41ead4bedb995b5a4bcc5416c7ee4ba953f3772
 x
@@ -259,14 +255,8 @@ Yms-transaction-bank/src/main/java/com/example/mstransaction/services/CustomerSe
 `ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/AcquisitionService.java,a/6/a655f3d952ef8e193d887cb61e75f7587b12d981
 ç
 ]ms-transaction-bank/src/main/java/com/example/mstransaction/services/ITransactionService.java,e/b/ebbcc5c7a81e67a492fab8cbd1690206463dc4b5
-v
-Fms-debit/src/main/java/com/example/debit/repositories/IRepository.java,0/9/0942d55598e374c68f9baf83b479ed223aaf05ff
-s
-Cms-debit/src/main/java/com/example/debit/services/DebitService.java,b/1/b1c457cd0f0c3f0de9d4837410dfe5127af17b5e
 î
 dms-transaction-bank/src/main/java/com/example/mstransaction/repositories/ITransactionRepository.java,c/d/cd1566c3cf493a9814de46de4200b769a084c2b4
-{
-Kms-debit/src/main/java/com/example/debit/repositories/IDebitRepository.java,f/2/f21523e42bad30491a94f04f18c789e6c45ad086
 t
 Dms-debit/src/main/java/com/example/debit/services/IDebitService.java,b/2/b20db4c632734051a5705e6208ee6dcdfb4815dd
 å

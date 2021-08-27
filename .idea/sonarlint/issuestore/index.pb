@@ -13,8 +13,6 @@ O
 config-data/service-deposit.yml,4/4/44cbfc06f0a2297814a909249e45acf61af90968
 N
 config-data/service-retire.yml,c/b/cbaa5797a1fc6579604abc306f863d08d8f9b1b1
-S
-#config-data/service-transaction.yml,e/0/e07135ac7b7aef4c0ca05d54cedc182ca91b9951
 ‡
 Wms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/Retire.java,a/b/ab25f1bbf32dd5165914325418166945cc40b968
 ‰

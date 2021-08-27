@@ -21,6 +21,7 @@
         <module name="ms-retire" />
         <module name="ConfigServer" />
         <module name="ms-acquisition-bank" />
+        <module name="ms-wallet" />
       </profile>
     </annotationProcessing>
   </component>
@@ -40,6 +41,7 @@
       <module name="ms-retire" options="-parameters" />
       <module name="ms-transaction" options="-parameters" />
       <module name="ms-transference" options="-parameters" />
+      <module name="ms-wallet" options="-parameters" />
       <module name="parent-project-bootcamp" options="-parameters" />
     </option>
   </component>

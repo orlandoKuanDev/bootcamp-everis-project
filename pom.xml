@@ -50,5 +50,6 @@
         <module>ms-consumption</module>
         <module>ms-debit</module>
         <module>ms-transference</module>
+        <module>ms-wallet</module>
     </modules>
 </project>

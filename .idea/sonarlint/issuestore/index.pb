@@ -351,8 +351,6 @@ Ums-transaction-bank/src/main/java/com/example/mstransaction/services/BaseServic
 [ms-transaction-bank/src/main/java/com/example/mstransaction/handler/TransactionHandler.java,6/2/62795478efffcbadb55259bb8bf5b5028644644a
 K
 ms-transaction-bank/pom.xml,5/1/51ad86f4877b2e986a33454e894bb612b66fad13
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 „
 Tms-deposit-bank/src/main/java/com/example/msdepositbank/models/entities/Deposit.java,b/6/b6a3a6eaadfa49703d94f5dd513aa93018c8cf27
 {

@@ -11,6 +11,7 @@
         <module name="ms-consumption" />
         <module name="ms-debit" />
         <module name="ms-customer" />
+        <module name="ms-transference" />
         <module name="ms-credit" />
         <module name="ms-pasives" />
         <module name="ms-payment" />
@@ -38,6 +39,7 @@
       <module name="ms-product" options="-parameters" />
       <module name="ms-retire" options="-parameters" />
       <module name="ms-transaction" options="-parameters" />
+      <module name="ms-transference" options="-parameters" />
       <module name="parent-project-bootcamp" options="-parameters" />
     </option>
   </component>

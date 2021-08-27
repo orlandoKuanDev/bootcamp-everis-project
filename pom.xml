@@ -49,5 +49,6 @@
         <module>ms-payment</module>
         <module>ms-consumption</module>
         <module>ms-debit</module>
+        <module>ms-transference</module>
     </modules>
 </project>

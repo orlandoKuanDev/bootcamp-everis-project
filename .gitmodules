@@ -37,3 +37,6 @@
 [submodule "ms-debit"]
 	path = ms-debit
 	url = https://github.com/Mauricio06Everis/ms-debit
+[submodule "ms-transference"]
+	path = ms-transference
+	url = https://github.com/orlandoKuanDev/ms-transference

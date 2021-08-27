@@ -40,3 +40,6 @@
 [submodule "ms-transference"]
 	path = ms-transference
 	url = https://github.com/orlandoKuanDev/ms-transference
+[submodule "ms-wallet"]
+	path = ms-wallet
+	url = https://github.com/orlandoKuanDev/ms-wallet

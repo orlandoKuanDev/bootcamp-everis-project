@@ -43,3 +43,6 @@
 [submodule "ms-wallet"]
 	path = ms-wallet
 	url = https://github.com/orlandoKuanDev/ms-wallet
+[submodule "kafka"]
+	path = kafka
+	url = https://github.com/orlandoKuanDev/kafka

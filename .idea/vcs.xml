@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ConfigServer" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/eureka-server-bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-acquisition-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-bill" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-consumption" vcs="Git" />
@@ -16,5 +17,6 @@
     <mapping directory="$PROJECT_DIR$/ms-retire-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-transaction-bank" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ms-transference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ms-wallet" vcs="Git" />
   </component>
 </project>

@@ -11,6 +11,23 @@ spring:
         mongodb:
             database: ms-customer
             uri: mongodb://p3mongodb:WFve1bGHSZWShJdNllhEgbUqesNFhZqiiomgtst2GGBDphIpDNzSzuJU3GXqGqRARBgFozHjDsjpxj3JHcNVMg==@p3mongodb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@p3mongodb@
+kafka:
+    server:
+        hostname: 192.168.1.5
+        port: 29092
+    topic:
+        name: customer-topic
+        partitions: 1
+        replicas: 1
+        groupid: customer-group
+    producer:
+        customer: wallet-topic
+    consumer:
+        wallet: created-customer-topic
+        #bill: bill-topic
+        #acquisition: acquisition-topic
+        #customer: customer-topic
+
 msg:
     error:
         registro:

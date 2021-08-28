@@ -23,7 +23,9 @@ kafka:
     partitions: 1
     replicas: 1
     groupid: wallet-group
-  consumer:
-      bill: bill-topic
-      acquisition: acquisition-topic
-      customer: customer-topic
+  producer:
+    customer: created-customer-topic
+  #consumer:
+      #bill: bill-topic
+      #acquisition: acquisition-topic
+      #customer: customer-topic

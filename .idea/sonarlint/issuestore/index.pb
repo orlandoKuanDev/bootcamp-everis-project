@@ -53,8 +53,6 @@ Ims-bill/src/main/java/com/example/mspasives/services/BillTypeService.java,9/1/
 Lms-bill/src/main/java/com/example/mspasives/services/TransactionService.java,c/e/ce40aebee981aad351256f704a1fb1f246efffd8
 v
 Fms-bill/src/main/java/com/example/mspasives/services/IBillService.java,7/1/717114f0f50dd2f3be72223793724258de671069
-u
-Ems-bill/src/main/java/com/example/mspasives/services/BillService.java,3/7/37bd89b21c70da18fe4c1e40866297e8564c477a
 ã
 [ms-transaction-bank/src/main/java/com/example/mstransaction/models/entities/CreditCard.java,6/3/6334be1e9e392301169c7f7fc1dadc7d41834be0
 |
@@ -299,8 +297,6 @@ s
 Cms-debit/src/main/java/com/example/debit/services/DebitService.java,b/1/b1c457cd0f0c3f0de9d4837410dfe5127af17b5e
 q
 Ams-debit/src/main/java/com/example/debit/config/RouterConfig.java,b/e/bef693740110607c1440e07bdc68e3e2a9e24850
-è
-_ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/handler/AcquisitionHandler.java,e/b/eb1cfa36c3c53e733cd861978d71c5c9a44827c5
 ú
 lms-deposit-bank/src/main/java/com/example/msdepositbank/models/entities/dto/CreateDepositWithAccountDTO.java,e/1/e1c8c94ad63092d1e0410267076a67fbf1d6eb6a
 Å
@@ -379,8 +375,6 @@ Pms-consumption/src/main/java/com/example/msconsumption/services/BaseService.jav
 Wms-consumption/src/main/java/com/example/msconsumption/services/AcquisitionService.java,1/c/1c9e0712472dab1cb26f20d44fb3c98b2df029a2
 à
 Xms-transference/src/main/java/com/example/mstransference/service/AcquisitionService.java,d/8/d8ae1be5d00db17b99a5a178d4a4a3f1f58e10ea
-x
-Hms-transference/src/main/java/com/example/mstransference/model/Bill.java,8/b/8b6a514938c8eca4db860f178b215ce7c84142d2
 
 Oms-transference/src/main/java/com/example/mstransference/model/Acquisition.java,e/e/ee58d84c463c5fc60d6720594baeec205085d033
 ê
@@ -425,12 +419,8 @@ K
 ms-transaction-bank/pom.xml,5/1/51ad86f4877b2e986a33454e894bb612b66fad13
 Ü
 Veureka-server-bank/src/main/java/com/example/eurekaserver/EurekaServerApplication.java,e/b/ebc44fbd2f44ff99813348196d3783e3bceb8c3f
-Q
-!config-data/eureka-server-dev.yml,a/9/a9c3b42430118a27f1b00771d9ce82433f5b4064
 J
 ms-transference/Dockerfile,9/f/9f8a66a9aa8dff417002a00ed7710f99b39b7073
-M
-config-data/eureka-server.yml,5/b/5b07408fb9557f8414c721f3f39461ee740f1b63
 â
 Yms-transference/src/main/java/com/example/mstransference/handler/TransferenceHandler.java,0/4/0462c95c2373372ebd0b7f63e6fab7a0bd0f4728
 R
@@ -471,8 +461,6 @@ G
 ConfigServer/Dockerfile,4/5/4549febf21e403ca6cce816c02089d0283582df7
 â
 Yms-transference/src/main/java/com/example/mstransference/service/TransferenceService.java,1/a/1a59ee601ceffc95592f3621a33d585ccd435aed
-w
-Gms-wallet/src/main/java/com/example/mswallet/handler/WalletHandler.java,b/d/bd5289e6d304b193edded0edd772a76da4ae6413
 u
 Ems-wallet/src/main/java/com/example/mswallet/MsWalletApplication.java,7/d/7d785c3ca46a7c0a506d70206911949a42945de8
 |
@@ -485,8 +473,6 @@ m
 =ms-wallet/src/main/java/com/example/mswallet/model/Rules.java,8/c/8c14071d3d12b87691c840d2ea39989e8a5f17d0
 o
 ?ms-wallet/src/main/java/com/example/mswallet/model/Product.java,2/5/257323239e7c183d5d9902576dbaefccf98014b7
-p
-@ms-wallet/src/main/java/com/example/mswallet/model/Customer.java,8/c/8c189674d7e0178ca462c12017891848b4e79b10
 s
 Cms-wallet/src/main/java/com/example/mswallet/model/Acquisition.java,d/c/dced4a36c3bcaebc777420ae129193e03a4c2eee
 ~
@@ -501,18 +487,10 @@ Hms-wallet/src/main/java/com/example/mswallet/services/WalletService.java,8/c/8
 Lms-wallet/src/main/java/com/example/mswallet/repository/IBillRepository.java,3/7/373566571c0f38838d9ed61fcdbe56171ddf94ae
 w
 Gms-wallet/src/main/java/com/example/mswallet/services/IBillService.java,1/7/17be03806f9f14e85ddb8b09add7fc1dfc458743
-v
-Fms-wallet/src/main/java/com/example/mswallet/services/BillService.java,3/1/310ce4cbb06506629a4c8e7ad4d85e430ebc661a
-
-Oms-wallet/src/main/java/com/example/mswallet/topic/producer/WalletProducer.java,b/3/b38e3fc7b7835d7650600f429dfa4fb847cc2805
 A
 ms-wallet/pom.xml,0/f/0f14e3ff4b8a952b870d1058d95c0ff680dbc7d6
-?
-ms-bill/pom.xml,6/2/62d32364a600a2e85c0fb5f575cf03e6116ad156
 r
 Bms-debit/src/main/java/com/example/debit/handler/DebitHandler.java,5/2/527f2b9ceab12ab17e06df7ba5dca4deba017fc0
-|
-Lms-bill/src/main/java/com/example/mspasives/topic/producer/BillProducer.java,1/c/1c82d4dbae445e2c52b03be15b9c3d0c48cf755e
 u
 Ems-bill/src/main/java/com/example/mspasives/MsPasivesApplication.java,7/b/7b78fde9d3fbf4cd9dfc185b707152083abd9544
 q
@@ -527,13 +505,3 @@ O
 ConfigServer/docker-compose.yml,2/c/2cd7acce7d5fa06ca7ef7894be7dcae9cc2f81e6
 t
 Dms-wallet/src/main/java/com/example/mswallet/config/WalletTopic.java,0/3/039109564e0379921d0c687ac3ecefd19b0fbc5e
-L
-config-data/service-bill.yml,3/6/360e2c66bb1be4dfdd7d19bfe4770a637a4618f8
-N
-config-data/service-wallet.yml,a/c/ac0ac8b2e4543b7f164eb9a13b8e9cb72a25267f
-W
-'config-data/service-transaction-dev.yml,b/7/b72d4390a30f7b84c52b0c4204d7148a19d952ee
-P
- config-data/service-bill-dev.yml,9/3/93430b74bd3e38a7c79834718ee6e839cb8cbbc2
-R
-"config-data/service-wallet-dev.yml,f/b/fb057e359e7c943ebe3d4ac60630198409e06088

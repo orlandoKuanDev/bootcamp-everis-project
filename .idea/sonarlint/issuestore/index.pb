@@ -497,11 +497,5 @@ q
 Ams-bill/src/main/java/com/example/mspasives/config/BillTopic.java,3/b/3b9993ffcdcea0c7c5652b5422303d2c3910ebd0
 l
 <ms-wallet/src/main/java/com/example/mswallet/model/Bill.java,3/1/31b1eb923514f550fb93d498060174b6b4380b2f
-
-Oms-wallet/src/main/java/com/example/mswallet/topic/consumer/WalletConsumer.java,a/4/a4f111892cee3b77482f1e36eb291b8af6777d7e
-H
-kafka/docker-compose.yml,e/5/e59a3fad5987b45b5c0830314e490e13fa161ac8
 O
 ConfigServer/docker-compose.yml,2/c/2cd7acce7d5fa06ca7ef7894be7dcae9cc2f81e6
-t
-Dms-wallet/src/main/java/com/example/mswallet/config/WalletTopic.java,0/3/039109564e0379921d0c687ac3ecefd19b0fbc5e

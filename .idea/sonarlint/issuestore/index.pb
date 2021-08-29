@@ -148,8 +148,6 @@ Wms-transaction-bank/src/main/java/com/example/mstransaction/config/WebClientCon
 ê
 `ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Transaction.java,e/b/ebd5edd9ad72a7335c5e5fcf83f7b7daba690e44
 ë
-ams-acquisition-bank/src/main/java/com/example/msacquisitionbank/MsAcquisitionBankApplication.java,2/b/2b85f6b57158030019bb888a3030d8e3d120bfe7
-ë
 ams-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/dto/AverageBalanceDTO.java,7/7/7708090d09e7fcdd229ad2dbe9cfdca4a5e6a521
 Ö
 Ums-transaction-bank/src/main/java/com/example/mstransaction/services/BillService.java,c/a/cac5cf5c83f1273328b23770671b49c7d7abeb0f
@@ -169,8 +167,6 @@ Hms-consumption/src/main/java/com/example/msconsumption/models/Rules.java,2/a/2
 Kms-consumption/src/main/java/com/example/msconsumption/models/Customer.java,4/1/41148884a1accca62121f5ca8b7fb023c29197e0
 z
 Jms-consumption/src/main/java/com/example/msconsumption/models/Product.java,9/e/9ef948613fe13a5a6a3f0d113e17492b42f52539
-å
-\ms-transaction-bank/src/main/java/com/example/mstransaction/services/AcquisitionService.java,d/a/da596a485af82a24632b10deecf971594434c384
 î
 dms-acquisition-bank/src/main/java/com/example/msacquisitionbank/utils/CreditCardNumberGenerator.java,e/6/e6f48c7e224b17fa1b9811cd7ce68143b182c9e6
 è
@@ -247,12 +243,8 @@ Lms-retire-bank/src/main/java/com/example/msretire/models/entities/Rules.java,f
 Oms-retire-bank/src/main/java/com/example/msretire/models/entities/Customer.java,4/e/4ed2b0df147e18aacd8e0ad9b5008d48122a239d
 w
 Gms-credit/src/main/java/com/example/mscredit/handler/CreditHandler.java,3/a/3a4f0db8ee7b0c7afffbd50e16970d5d80d6ae46
-ê
-`ms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/entities/Acquisition.java,f/9/f98ab7782dfdbe60c9c1a7ba0f4d20b04b08233f
 y
 Ims-debit/src/main/java/com/example/debit/models/entities/Acquisition.java,9/d/9df1f355e2f6c957c0cd4d3f54531e10886a3358
-à
-Xms-acquisition-bank/src/main/java/com/example/msacquisitionbank/config/RouterConfig.java,2/6/26425e9ccf60bfc96f0bf5e65d08c98828dc5416
 Å
 Qms-deposit-bank/src/main/java/com/example/msdepositbank/models/entities/Bill.java,9/6/964699d98f474c27009bf8458000740432df36d9
 B
@@ -459,10 +451,6 @@ v
 Fms-bill/src/main/java/com/example/mspasives/models/entities/Rules.java,e/9/e9147d129fc7625ff9685510caa5589a7dfc8e41
 m
 =ms-wallet/src/main/java/com/example/mswallet/model/Rules.java,8/c/8c14071d3d12b87691c840d2ea39989e8a5f17d0
-o
-?ms-wallet/src/main/java/com/example/mswallet/model/Product.java,2/5/257323239e7c183d5d9902576dbaefccf98014b7
-s
-Cms-wallet/src/main/java/com/example/mswallet/model/Acquisition.java,d/c/dced4a36c3bcaebc777420ae129193e03a4c2eee
 ~
 Nms-wallet/src/main/java/com/example/mswallet/repository/IWalletRepository.java,7/0/70b4df5d5fd5a4afcc56ffd86e4c33eff6b04acd
 u

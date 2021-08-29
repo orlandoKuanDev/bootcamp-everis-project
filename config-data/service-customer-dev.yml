@@ -18,17 +18,10 @@ kafka:
         hostname: 192.168.1.5
         port: 29092
     topic:
-        name: customer-topic
+        name: customer2-topic
         partitions: 1
         replicas: 1
         groupid: customer-group
-    producer:
-        customer: wallet-topic
-    consumer:
-        wallet: created-customer-topic
-        #bill: bill-topic
-        #acquisition: acquisition-topic
-        #customer: customer-topic
 
 msg:
     error:

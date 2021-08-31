@@ -1,0 +1,20 @@
+
+I
+java:S1172,".Remove this unused method parameter "request".(¥¥óŞÿÿÿÿÿ
+8
+java:S3864±"!Remove this use of "Stream.peek".(™„Œæ
+8
+java:S3864ò"!Remove this use of "Stream.peek".(™„Œæ
+Y	java:S125"<This block of commented-out lines of code should be removed.(‘ÌÓ8èçÍÏ¹/
+j
+java:S1602§"SRemove useless curly braces around statement and then remove useless return keyword(àù”
+8
+java:S3864Ó"!Remove this use of "Stream.peek".(™„Œæ
+\
+java:S1144˜"FRemove this unused private "createPaymentWithCardNotPrincipal" method.( ¾Ô<
+y
+java:S1192€"[Define a constant instead of duplicating this literal "the credit card is invalid" 3 times.(™¢®8ÿçÍÏ¹/
+p
+java:S1192|"SDefine a constant instead of duplicating this literal "after debit update" 3 times.(Óä¥»8ÿçÍÏ¹/
+`
+java:S1192f"JDefine a constant instead of duplicating this literal "/payment/" 6 times.(»²Äß

@@ -1,0 +1,19 @@
+
+I
+java:S11720".Remove this unused method parameter "request".(¥¥óŞÿÿÿÿÿ
+v
+java:S1602…"SRemove useless curly braces around statement and then remove useless return keyword(¾ÿéÃûÿÿÿÿ8ˆÿâ¹/
+p
+java:S1602˜"SRemove useless curly braces around statement and then remove useless return keyword(ˆıø8Šÿâ¹/
+I
+java:S1612˜",Replace this lambda with a method reference.(ˆıø8‹ÿâ¹/
+u
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(¬şŸÿÿÿÿÿ8Œÿâ¹/
+Y	java:S125‘"<This block of commented-out lines of code should be removed.(Ìå¯Ø8™ÿâ¹/
+Y	java:S125¦"<This block of commented-out lines of code should be removed.(°ı²Û8›ÿâ¹/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8…½’â¹/
+v
+java:S1192R"[Define a constant instead of duplicating this literal "THE PRODUCT DOES NOT EXIST" 3 times.(ßœ¾Àüÿÿÿÿ
+e
+java:S1192^"ODefine a constant instead of duplicating this literal "identityNumber" 3 times.(Ï½ƒ£

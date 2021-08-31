@@ -1,14 +1,15 @@
 
 I
-java:S1172)".Remove this unused method parameter "request".(¥¥σήÿÿÿÿÿ
+java:S11722".Remove this unused method parameter "request".(¥¥σήÿÿÿÿÿ
 e
-java:S1854="JRemove this useless assignment to local variable "acquisitionForConsumer".(µΥΓιόÿÿÿÿ
+java:S1854N"JRemove this useless assignment to local variable "acquisitionForConsumer".(µΥΓιόÿÿÿÿ
 V
-java:S1481=";Remove this unused "acquisitionForConsumer" local variable.(µΥΓιόÿÿÿÿ
-V	java:S125c"<This block of commented-out lines of code should be removed.(ΐδ«Ιώÿÿÿÿ
-e
-java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(΄‘¨™8ΰ±ΠƒΉ/
-P
-java:S1128".Remove this unused import 'java.io.DataInput'.(…όÿÿÿÿ8ΰ±ΠƒΉ/
+java:S1481N";Remove this unused "acquisitionForConsumer" local variable.(µΥΓιόÿÿÿÿ
+j
+java:S1602“"SRemove useless curly braces around statement and then remove useless return keyword(ªΨ΅
 I
-java:S1068!"3Remove this unused "customerService" private field.(ΒΜοε
+java:S1068""3Remove this unused "customerService" private field.(ΒΜοε
+I
+java:S1068%"3Remove this unused "walletConverter" private field.(„ΩΦ¤
+_
+java:S1192a"IDefine a constant instead of duplicating this literal "MONEDERO" 3 times.(Λ‡Κ•

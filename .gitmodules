@@ -46,3 +46,6 @@
 [submodule "kafka"]
 	path = kafka
 	url = https://github.com/orlandoKuanDev/kafka
+[submodule "ms-bootcoin-bank"]
+	path = ms-bootcoin-bank
+	url = https://github.com/orlandoKuanDev/ms-bootcoin-bank

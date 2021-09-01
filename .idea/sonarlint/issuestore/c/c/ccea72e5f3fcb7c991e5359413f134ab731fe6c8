@@ -1,0 +1,11 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(£š“İ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÔâŞ¯
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ƒª©!
+i
+java:S1602!"SRemove useless curly braces around statement and then remove useless return keyword(ü¹ê˜
+i
+java:S1602#"SRemove useless curly braces around statement and then remove useless return keyword(àù”
+V	java:S1255"<This block of commented-out lines of code should be removed.(îˆ¢©úÿÿÿÿ

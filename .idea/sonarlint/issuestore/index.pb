@@ -321,8 +321,6 @@ H
 ms-customer-bank/pom.xml,c/6/c64113868acd5238b8549a870c43abdef90f4e43
 x
 Hms-transference/src/main/java/com/example/mstransference/model/Bill.java,8/b/8b6a514938c8eca4db860f178b215ce7c84142d2
-L
-config-data/service-bill.yml,3/6/360e2c66bb1be4dfdd7d19bfe4770a637a4618f8
 |
 Lms-bill/src/main/java/com/example/mspasives/topic/producer/BillProducer.java,1/c/1c82d4dbae445e2c52b03be15b9c3d0c48cf755e
 ~
@@ -361,12 +359,6 @@ dms-acquisition-bank/src/main/java/com/example/msacquisitionbank/models/dto/Crea
 Yms-acquisition-bank/src/main/java/com/example/msacquisitionbank/services/BillService.java,c/6/c619827bfc5905ec16b1ec1c61922fbb3589c6bc
 T
 $config-data/service-customer-dev.yml,9/8/98bfc9fa5fb981b9623d0197c957b77df66643d5
-t
-Dms-wallet/src/main/java/com/example/mswallet/config/WalletTopic.java,0/3/039109564e0379921d0c687ac3ecefd19b0fbc5e
-R
-"config-data/service-wallet-dev.yml,f/b/fb057e359e7c943ebe3d4ac60630198409e06088
-N
-config-data/service-wallet.yml,a/c/ac0ac8b2e4543b7f164eb9a13b8e9cb72a25267f
 W
 'config-data/service-consumption-dev.yml,d/7/d7788b069fce27356a6068f2d05dbde5ef524d35
 

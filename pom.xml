@@ -51,5 +51,6 @@
         <module>ms-debit</module>
         <module>ms-transference</module>
         <module>ms-wallet</module>
+        <module>ms-bootcoin-bank</module>
     </modules>
 </project>

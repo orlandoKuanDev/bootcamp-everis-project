@@ -17,6 +17,7 @@
         <module name="ms-payment" />
         <module name="eureka-server" />
         <module name="ms-product" />
+        <module name="ms-bootcoin" />
         <module name="ms-transaction" />
         <module name="ms-retire" />
         <module name="ConfigServer" />
@@ -30,6 +31,7 @@
       <module name="ConfigServer" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="ms-acquisition-bank" options="-parameters" />
+      <module name="ms-bootcoin" options="-parameters" />
       <module name="ms-consumption" options="-parameters" />
       <module name="ms-credit" options="-parameters" />
       <module name="ms-customer" options="-parameters" />

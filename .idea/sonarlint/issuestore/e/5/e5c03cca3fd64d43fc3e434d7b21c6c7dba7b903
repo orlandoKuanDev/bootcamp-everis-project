@@ -1,0 +1,23 @@
+
+I
+java:S1172,".Remove this unused method parameter "request".(¥¥óŞÿÿÿÿÿ
+I
+java:S11720".Remove this unused method parameter "request".(Ğáùÿÿÿÿ
+j
+java:S1602Ê"SRemove useless curly braces around statement and then remove useless return keyword(ªØ¡
+j
+java:S1602†"SRemove useless curly braces around statement and then remove useless return keyword(ªØ¡
+j
+java:S1602Í"SRemove useless curly braces around statement and then remove useless return keyword(ªØ¡
+g
+java:S1192Å"KDefine a constant instead of duplicating this literal "RETIRE, {}" 3 times.(¯§¥”øÿÿÿÿ
+_
+java:S1192_"IDefine a constant instead of duplicating this literal "BOOTCOIN" 3 times.(£ƒ„†
+p
+java:S1192Á"YDefine a constant instead of duplicating this literal "send money from %s to %s" 3 times.(¦Å»
+e
+java:S1192¡"ODefine a constant instead of duplicating this literal "/transference/" 4 times.(ÚÈÿ_
+s
+java:S1192Ö"\Define a constant instead of duplicating this literal "receive money from %s to %s" 3 times.(Ìæáš
+`
+java:S1192³"IDefine a constant instead of duplicating this literal "APPROVED" 4 times.(¢¬Ì¢

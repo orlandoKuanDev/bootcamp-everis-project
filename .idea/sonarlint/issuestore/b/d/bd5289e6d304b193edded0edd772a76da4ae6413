@@ -1,0 +1,15 @@
+
+I
+java:S11724".Remove this unused method parameter "request".(¥¥óŞÿÿÿÿÿ
+i
+java:S1602f"SRemove useless curly braces around statement and then remove useless return keyword(Ë®ôè
+i
+java:S1602h"SRemove useless curly braces around statement and then remove useless return keyword(àù”
+j
+java:S1602á"SRemove useless curly braces around statement and then remove useless return keyword(ªØ¡
+I
+java:S1068$"3Remove this unused "customerService" private field.(ÂÌïå
+I
+java:S1068'"3Remove this unused "walletConverter" private field.(„ÙÖ¤
+`
+java:S1192€"IDefine a constant instead of duplicating this literal "MONEDERO" 5 times.(Ë‡Ê•

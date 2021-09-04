@@ -663,7 +663,5 @@ Mms-product-bank/src/main/java/com/example/msproduct/model/entities/Rules.java,
 Mms-product-bank/src/main/java/com/example/msproduct/services/BaseService.java,6/6/66a95b191b648e60eb95b4f73750054318b3f092
 v
 Fms-wallet/src/main/java/com/example/mswallet/services/BillService.java,3/1/310ce4cbb06506629a4c8e7ad4d85e430ebc661a
-å
-\ms-product-bank/src/test/java/com/example/msproduct/repositories/IProductRepositoryTest.java,e/8/e8cd0b890f442de89a3fef74ae0e884b50e617a0
 Å
 Qms-product-bank/src/main/java/com/example/msproduct/services/IProductService.java,5/1/51ac45539ab45f14d7dca623294146b6582111aa

@@ -295,8 +295,6 @@ u
 Ems-bill/src/main/java/com/example/mspasives/services/BillService.java,3/7/37bd89b21c70da18fe4c1e40866297e8564c477a
 ?
 ms-bill/pom.xml,6/2/62d32364a600a2e85c0fb5f575cf03e6116ad156
-H
-ms-customer-bank/pom.xml,c/6/c64113868acd5238b8549a870c43abdef90f4e43
 x
 Hms-transference/src/main/java/com/example/mstransference/model/Bill.java,8/b/8b6a514938c8eca4db860f178b215ce7c84142d2
 |
@@ -461,8 +459,6 @@ Jms-wallet/src/main/java/com/example/mswallet/coverter/WalletConverter.java,5/b
 Ums-customer-bank/src/main/java/com/bootcamp/mscustomer/services/ICustomerService.java,d/0/d02c47a1689a3a7049771ac16c2eb902a68f7b92
 Ñ
 Tms-customer-bank/src/main/java/com/bootcamp/mscustomer/repositories/IRepository.java,3/1/31cafd901c7f6da36bc1e9283fdffcfbc6f38c04
-Ñ
-Tms-customer-bank/src/main/java/com/bootcamp/mscustomer/models/entities/Customer.java,1/b/1b37ab3e4f34cd4fe1554b75c7bc51a558e14a66
 
 Oms-customer-bank/src/main/java/com/bootcamp/mscustomer/config/RouterConfig.java,c/d/cda185e7f1017f76d2132f4771d468acd9d3eb38
 S
@@ -631,14 +627,10 @@ t
 Dms-credit/src/main/java/com/example/mscredit/config/RedisConfig.java,9/4/9491ee1b6f8b5e9da9e66b1a62b668e36b521b3f
 É
 Sms-deposit-bank/src/main/java/com/example/msdepositbank/handler/DepositHandler.java,d/2/d2ac60cc8a22903b2a6e73f7b10a50e23a98e879
-É
-Sms-customer-bank/src/main/java/com/bootcamp/mscustomer/handler/CustomerHandler.java,0/6/0631b79c27257213d11a5b5c36e0816e2bf87714
 á
 Wms-customer-bank/src/test/java/com/bootcamp/mscustomer/handler/CustomerHandlerTest.java,d/7/d7a41a63a28e6a14cff67f52d5bf879b4e7cbb96
 à
 Xms-product-bank/src/main/java/com/example/msproduct/repositories/IProductRepository.java,c/c/cc5d91b8736ddf1542195ffe943fe5e2d946dfd5
-H
-ms-bootcoin-bank/pom.xml,b/d/bd08f0950d28fc32143fabdacc5efc2d67972082
 G
 ms-product-bank/pom.xml,3/7/37723254844f959f396b478697d92b37b1cdec26
 ç
@@ -665,3 +657,11 @@ v
 Fms-wallet/src/main/java/com/example/mswallet/services/BillService.java,3/1/310ce4cbb06506629a4c8e7ad4d85e430ebc661a
 Å
 Qms-product-bank/src/main/java/com/example/msproduct/services/IProductService.java,5/1/51ac45539ab45f14d7dca623294146b6582111aa
+~
+Nms-product-bank/src/main/java/com/example/msproduct/exception/ClientError.java,6/3/63f2d11a1655b388b3ffd49645ddc4165f6ffc53
+É
+Sms-product-bank/src/main/java/com/example/msproduct/exception/ProductException.java,f/5/f58f0fa3f2640d9dd80005bd9b6ef98d8d6bbe43
+|
+Lms-product-bank/src/main/java/com/example/msproduct/exception/ErrorCode.java,6/b/6bfa2237c9b8aed9ef8c735861cae7b51fc3aac2
+á
+Wms-product-bank/src/main/java/com/example/msproduct/exception/ApplicationException.java,f/8/f8871430f7dccdef19c967bb4ed435d24c360342

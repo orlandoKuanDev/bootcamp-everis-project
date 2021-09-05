@@ -1,19 +1,0 @@
-
-t	java:S116"ZRename this field "CIRCUIT_BREAKER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùƒ³ıÿÿÿÿ
-y	java:S116"dRename this field "MSJ_ERROR_UPDATE_CUSTOMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¦µµ
-|	java:S116"bRename this field "MSJ_ERROR_FIND_CUSTOMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ïÀšùÿÿÿÿ
-<
-java:S1170"!Make this final field static too.(ùƒ³ıÿÿÿÿ
-7
-java:S1170"!Make this final field static too.(ÿ¦µµ
-<
-java:S1170"!Make this final field static too.(×ïÀšùÿÿÿÿ
-I
-java:S1172$".Remove this unused method parameter "request".(¥¥óŞÿÿÿÿÿ
-Q	java:S125x"<This block of commented-out lines of code should be removed.(•¯ğ‚
-r
-java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ
-e
-java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
-N
-java:S1068"3Remove this unused "CIRCUIT_BREAKER" private field.(ùƒ³ıÿÿÿÿ

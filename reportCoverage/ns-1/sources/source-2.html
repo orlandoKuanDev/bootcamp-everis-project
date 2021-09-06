@@ -1,0 +1,157 @@
+
+
+
+<!DOCTYPE html>
+<html id="htmlId">
+<head>
+  <title>Coverage Report > CustomerService</title>
+  <style type="text/css">
+    @import "../../css/coverage.css";
+    @import "../../css/highlight-idea.css";
+  </style>
+  <script type="text/javascript" src="../../js/highlight.pack.js"></script>
+</head>
+
+<body>
+<div class="content">
+<div class="breadCrumbs">
+Current scope:     <a href="../../index.html">all classes</a>
+    <span class="separator">|</span>
+    <a href="../index.html">com.bootcamp.mscustomer.services</a>
+</div>
+
+<h1>Coverage Summary for Class: CustomerService (com.bootcamp.mscustomer.services)</h1>
+
+<table class="coverageStats">
+<tr>
+  <th class="name">Class</th>
+<th class="coverageStat 
+">
+  Class, %
+</th>
+<th class="coverageStat 
+">
+  Method, %
+</th>
+<th class="coverageStat 
+">
+  Line, %
+</th>
+</tr>
+<tr>
+  <td class="name">CustomerService</td>
+<td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+  <span class="absValue">
+    (1/1)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    85.7%
+  </span>
+  <span class="absValue">
+    (6/7)
+  </span>
+</td>
+<td class="coverageStat">
+  <span class="percent">
+    78.6%
+  </span>
+  <span class="absValue">
+    (11/14)
+  </span>
+</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
+
+
+<pre>
+<div class="sourceCode" id="sourceCode"><i class="no-highlight">1</i>&nbsp;package com.bootcamp.mscustomer.services;
+<i class="no-highlight">2</i>&nbsp;
+<i class="no-highlight">3</i>&nbsp;import com.bootcamp.mscustomer.Exception.EntityNotFoundException;
+<i class="no-highlight">4</i>&nbsp;import com.bootcamp.mscustomer.models.entities.Customer;
+<i class="no-highlight">5</i>&nbsp;import com.bootcamp.mscustomer.repositories.ICustomerRepository;
+<i class="no-highlight">6</i>&nbsp;import com.bootcamp.mscustomer.repositories.IRepository;
+<i class="no-highlight">7</i>&nbsp;import lombok.extern.slf4j.Slf4j;
+<i class="no-highlight">8</i>&nbsp;import org.springframework.beans.factory.annotation.Autowired;
+<i class="no-highlight">9</i>&nbsp;import org.springframework.stereotype.Service;
+<i class="no-highlight">10</i>&nbsp;import reactor.core.publisher.Mono;
+<i class="no-highlight">11</i>&nbsp;
+<i class="no-highlight">12</i>&nbsp;@Service
+<b class="fc"><i class="no-highlight">13</i>&nbsp;@Slf4j(topic = &quot;CUSTOMER_SERVICE&quot;)</b>
+<i class="no-highlight">14</i>&nbsp;public class CustomerService extends BaseService&lt;Customer, String&gt; implements ICustomerService{
+<i class="no-highlight">15</i>&nbsp;    private final ICustomerRepository customerRepository;
+<i class="no-highlight">16</i>&nbsp;
+<i class="no-highlight">17</i>&nbsp;    @Autowired
+<b class="fc"><i class="no-highlight">18</i>&nbsp;    public CustomerService(ICustomerRepository customerRepository) {</b>
+<b class="fc"><i class="no-highlight">19</i>&nbsp;        this.customerRepository = customerRepository;</b>
+<i class="no-highlight">20</i>&nbsp;    }
+<i class="no-highlight">21</i>&nbsp;
+<i class="no-highlight">22</i>&nbsp;    @Override
+<i class="no-highlight">23</i>&nbsp;    protected IRepository&lt;Customer, String&gt; getRepository() {
+<b class="nc"><i class="no-highlight">24</i>&nbsp;        return customerRepository;</b>
+<i class="no-highlight">25</i>&nbsp;    }
+<i class="no-highlight">26</i>&nbsp;
+<i class="no-highlight">27</i>&nbsp;    @Override
+<i class="no-highlight">28</i>&nbsp;    public Mono&lt;Customer&gt; findByName(String name) {
+<b class="fc"><i class="no-highlight">29</i>&nbsp;        Mono&lt;Customer&gt; customer = customerRepository.findByName(name);</b>
+<b class="fc"><i class="no-highlight">30</i>&nbsp;        return customer.hasElement().flatMap(customerBD -&gt; {</b>
+<b class="fc"><i class="no-highlight">31</i>&nbsp;            if (Boolean.TRUE.equals(customerBD)){</b>
+<b class="fc"><i class="no-highlight">32</i>&nbsp;                return customer;</b>
+<i class="no-highlight">33</i>&nbsp;            }else {
+<b class="nc"><i class="no-highlight">34</i>&nbsp;                return Mono.error(() -&gt; new EntityNotFoundException(&quot;entity.customer.notNamePresent&quot;));</b>
+<i class="no-highlight">35</i>&nbsp;            }
+<i class="no-highlight">36</i>&nbsp;        });
+<i class="no-highlight">37</i>&nbsp;        //return customerRepository.findByName(name);
+<i class="no-highlight">38</i>&nbsp;    }
+<i class="no-highlight">39</i>&nbsp;
+<i class="no-highlight">40</i>&nbsp;    @Override
+<i class="no-highlight">41</i>&nbsp;    public Mono&lt;Customer&gt; findByCustomerIdentityNumber(String customerIdentityName) {
+<b class="fc"><i class="no-highlight">42</i>&nbsp;        Mono&lt;Customer&gt; customer = customerRepository.findByCustomerIdentityNumber(customerIdentityName);</b>
+<b class="fc"><i class="no-highlight">43</i>&nbsp;        return customer.hasElement().flatMap(customerBD -&gt; {</b>
+<b class="fc"><i class="no-highlight">44</i>&nbsp;            if (Boolean.TRUE.equals(customerBD)){</b>
+<b class="fc"><i class="no-highlight">45</i>&nbsp;                return customer;</b>
+<i class="no-highlight">46</i>&nbsp;            }else {
+<b class="nc"><i class="no-highlight">47</i>&nbsp;                return Mono.error(() -&gt; new EntityNotFoundException(&quot;entity.customer.notIdentityPresent&quot;));</b>
+<i class="no-highlight">48</i>&nbsp;            }
+<i class="no-highlight">49</i>&nbsp;        });
+<i class="no-highlight">50</i>&nbsp;        //return customerRepository.findByCustomerIdentityNumber(customerIdentityName);
+<i class="no-highlight">51</i>&nbsp;    }
+<i class="no-highlight">52</i>&nbsp;}
+</div>
+</pre>
+</div>
+
+<script type="text/javascript">
+(function() {
+    var msie = false, msie9 = false;
+    /*@cc_on
+      msie = true;
+      @if (@_jscript_version >= 9)
+        msie9 = true;
+      @end
+    @*/
+
+    if (!msie || msie && msie9) {
+        var codeBlock = document.getElementById('sourceCode');
+
+        if (codeBlock) {
+            hljs.highlightBlock(codeBlock);
+        }
+    }
+})();
+</script>
+
+<div class="footer">
+    
+    <div style="float:right;">generated on 2021-09-05 09:50</div>
+</div>
+</body>
+</html>

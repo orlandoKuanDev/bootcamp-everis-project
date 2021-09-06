@@ -1,0 +1,21 @@
+
+y	java:S116"dRename this field "MSJ_ERROR_UPDATE_CUSTOMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¦µµ
+|	java:S116"bRename this field "MSJ_ERROR_FIND_CUSTOMER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ïÀšùÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ÿ¦µµ
+<
+java:S1170"!Make this final field static too.(×ïÀšùÿÿÿÿ
+I
+java:S1172&".Remove this unused method parameter "request".(¥¥óÞÿÿÿÿÿ
+r
+java:S1128"\Remove this unused import 'io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker'.(›èÌÇ
+e
+java:S1128	"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+S
+java:S1068"=Remove this unused "MSJ_ERROR_UPDATE_CUSTOMER" private field.(ÿ¦µµ
